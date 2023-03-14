@@ -1,16 +1,13 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**Domnic-Origi/Domnic-Origi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Domnic Oiriga
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ceating a web page
+- 🌱 I’m currently learning javascript
+- 👯 I’m looking to collaborate on web development
+- 🤔 I’m looking for help with web design
+- 💬 Ask me about programming
+- 📫 How to reach me:domnicoiriga3950@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Amliving life that the devil wouldn't like me dead!
+
