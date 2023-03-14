@@ -8,6 +8,6 @@ I am Domnic Oiriga
 - 🤔 I’m looking for help with web design
 - 💬 Ask me about programming
 - 📫 How to reach me:domnicoiriga3950@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Am living life that the devil wouldn't like me dead!
 
